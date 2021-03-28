@@ -5,7 +5,7 @@ Oi! Me chamo Gisele, sou de Campinas, Brasil. Atualmente estou estudando na [Try
 - 🎨 Apesar de estar na área de tecnologia, adoro trabalhos manuais e sempre que posso estou fazendo algo artístico
 - 👩🏽‍🎓 Acredito fortemente que podemos sempre aprender alguma coisa com alguém ou com alguma situação
 - 💬 Colaboração é um valor, me manda uma mensagem, adoraria ajudar!
-- 📬 Para entrar em contato comigo, por favor, envie um email para `jikinha@gmail.com` javascript
+- 📬 Para entrar em contato comigo, por favor, envie um email para `jikinha@gmail.com` 
 
 **Tecnologias e ferramentas**
 
