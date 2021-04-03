@@ -10,7 +10,6 @@ Oi! Me chamo Gisele, sou de Campinas, Brasil. Atualmente estou estudando na [Try
 **Tecnologias e ferramentas**
 
 ![Linux Badge](https://img.shields.io/badge/-Linux-042423?style=flat-square&logo=linux&logoColor=white)
-![Bash Badge](https://img.shields.io/badge/-Bash-042423?style=flat-square&logo=gnu-bash&logoColor=white)
 ![Git Badge](https://img.shields.io/badge/-Git-042423?style=flat-square&logo=git&logoColor=white)
 ![HTML5 Badge](https://img.shields.io/badge/-HTML-042423?style=flat-square&logo=html5&logoColor=white)
 ![CSS3 Badge](https://img.shields.io/badge/-CSS-042423?style=flat-square&logo=css3&logoColor=white)
