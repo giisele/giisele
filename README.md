@@ -1,7 +1,7 @@
 Oi! Me chamo Gisele, sou de Campinas, Brasil. Atualmente estou estudando na [Trybe](https://www.betrybe.com/) para me tornar uma **Desenvolvedora Full-Stack Júnior** :rocket:
 
 - 👩🏽‍💻 Desenvolvedora full-stack
-- 💻 Estudando **JavaScript**
+- 💻 Estudando o framework **React.js**
 - 🎨 Apesar de estar na área de tecnologia, adoro trabalhos manuais e sempre que posso estou fazendo algo artístico
 - 👩🏽‍🎓 Acredito fortemente que podemos sempre aprender alguma coisa com alguém ou com alguma situação
 - 💬 Colaboração é um valor, me manda uma mensagem, adoraria ajudar!
@@ -11,10 +11,13 @@ Oi! Me chamo Gisele, sou de Campinas, Brasil. Atualmente estou estudando na [Try
 
 ![Linux Badge](https://img.shields.io/badge/-Linux-042423?style=flat-square&logo=linux&logoColor=white)
 ![Git Badge](https://img.shields.io/badge/-Git-042423?style=flat-square&logo=git&logoColor=white)
+![Github Badge](https://img.shields.io/badge/-Github-042423?style=flat-square&logo=github&logoColor=white)
 ![HTML5 Badge](https://img.shields.io/badge/-HTML-042423?style=flat-square&logo=html5&logoColor=white)
 ![CSS3 Badge](https://img.shields.io/badge/-CSS-042423?style=flat-square&logo=css3&logoColor=white)
 ![VSCode Badge](https://img.shields.io/badge/-VSCode-042423?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![JavaScript Badge](https://img.shields.io/badge/-JavaScript-042423?style=flat-square&logo=javascript&logoColor=white)
+![Jest Badge](https://img.shields.io/badge/-Jest-042423?style=flat-square&logo=jest&logoColor=white)
+![React.js Badge](https://img.shields.io/badge/-React-042423?style=flat-square&logo=react&logoColor=white)
 
 
 
