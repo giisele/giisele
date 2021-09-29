@@ -1,4 +1,4 @@
-Oi! Me chamo Gisele, sou de Campinas, Brasil. Atualmente estou estudando na [Trybe](https://www.betrybe.com/) para me tornar uma **Desenvolvedora Full-Stack Júnior** :rocket:
+Oi! Me chamo Gisele, sou de Campinas, Brasil. Atualmente estou estudando para me tornar uma **Desenvolvedora Full-Stack Júnior**
 
 - 👩🏽‍💻 Desenvolvedora full-stack
 - 💻 Estudando o framework **React.js**
